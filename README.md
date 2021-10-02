@@ -1,3 +1,4 @@
+<img src="https://www.muhammedpolat.com.tr/wp-content/uploads/2021/09/giris-ekrani.png" height="300"/> <img src="https://www.muhammedpolat.com.tr/wp-content/uploads/2021/09/menu-ekrani.png" height="300"/>
 https://www.muhammedpolat.com.tr/restoran-otomasyonu-projesi/
 
 https://www.youtube.com/watch?v=yepr8QkdsxE
@@ -14,6 +15,8 @@ https://www.muhammedpolat.com.tr/
 info@muhammedpolat.com.tr
 
 ##############################################################################
+
+<img src="https://www.muhammedpolat.com.tr/wp-content/uploads/2021/09/siparis_ekrani.png" height="300"/> <img src="https://www.muhammedpolat.com.tr/wp-content/uploads/2021/10/raporlar_ekrani.png" height="280"/>
 
 1)Program içerisinde yetkili ve yetkisiz kullanıcılar için özel ayarlar yapıldı ve bu kullanıcıların seviyesine göre bazı ekran ve bazı tasarımlar gizlendi/gösterildi, kullanıcı seviyelerini veritabanında Personel Görevleri tablosundan görebilirsiniz burada ki ID'ye göre işlem sağlanıyor ve en yetkili kişi ID'si 1 olan Müdür ve bu kullanıcıdan sadece 1 tane var: Polat
 
